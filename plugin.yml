@@ -1,0 +1,6 @@
+name: TNTChest
+version: 13.37
+author: broswen
+main: me.broswen.tntchest.TNTChest
+description: custom plugin to protect chests
+
